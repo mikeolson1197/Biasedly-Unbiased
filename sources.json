@@ -1,0 +1,174 @@
+{
+  "sources": [
+    {
+      "name": "espn",
+      "appearance":"ESPN",
+      "type": "sports"
+    },
+    {
+      "name": "fox-sports",
+      "appearance":"Fox Sports",
+      "type": "sports"
+    },
+    {
+      "name": "nfl-news",
+      "appearance":"NFL News",
+      "type": "sports"
+    },
+    {
+      "name": "the-sport-bible",
+      "appearance":"The Sport Bible",
+      "type": "sports"
+    },
+    {
+      "name": "buzzfeed",
+      "appearance":"BuzzFeed",
+      "type": "entertainment"
+    },
+    {
+      "name": "daily-mail",
+      "appearance":"Daily Mail",
+      "type": "entertainment"
+    },
+    {
+      "name": "entertainment-weekly",
+      "appearance":"Entertainment Weekly",
+      "type": "entertainment"
+    },
+    {
+      "name": "mashable",
+      "appearance":"Mashable",
+      "type": "entertainment"
+    },
+    {
+      "name": "the-lad-bible",
+      "appearance":"The Lad Bible",
+      "type": "entertainment"
+    },
+    {
+      "name": "bloomberg",
+      "appearance":"Bloomberg",
+      "type": "business"
+    },
+    {
+      "name": "business-insider",
+      "appearance":"Business Insider",
+      "type": "business"
+    },
+    {
+      "name": "cnbc",
+      "appearance":"CNBC",
+      "type": "business"
+    },
+    {
+      "name": "financial-times",
+      "appearance":"Financial Times",
+      "type": "business"
+    },
+    {
+      "name": "fortune",
+      "appearance":"Fortune",
+      "type": "business"
+    },
+    {
+      "name": "the-economist",
+      "appearance":"The Economist",
+      "type": "business"
+    },
+    {
+      "name": "hacker-news",
+      "appearance":"Hacker News",
+      "type": "technology"
+    },
+    {
+      "name": "recode",
+      "appearance":"Recode",
+      "type": "technology"
+    },
+    {
+      "name": "techcrunch",
+      "appearance":"TechCrunch",
+      "type": "technology"
+    },
+    {
+      "name": "techradar",
+      "appearance":"TechRadar",
+      "type": "technology"
+    },
+    {
+      "name": "the-verge",
+      "appearance":"The Verge",
+      "type": "technology"
+    },
+    {
+      "name": "the-next-web",
+      "appearance":"The Next Web",
+      "type": "technology"
+    },
+    {
+      "name": "associated-press",
+      "appearance":"Associated Press",
+      "type": "general"
+    },
+    {
+      "name": "bbc-news",
+      "appearance":"BBC News",
+      "type": "general"
+    },
+    {
+      "name": "cnn",
+      "appearance":"CNN",
+      "type": "general"
+    },
+    {
+      "name": "google-news",
+      "appearance":"Google News",
+      "type": "general"
+    },
+    {
+      "name": "newsweek",
+      "appearance":"Newsweek",
+      "type": "general"
+    },
+    {
+      "name": "new-york-magazine",
+      "appearance":"New York Magazine",
+      "type": "general"
+    },
+    {
+      "name": "reddit-r-all",
+      "appearance":"Reddit /r/all",
+      "type": "general"
+    },
+    {
+      "name": "reuters",
+      "appearance":"Reuters",
+      "type": "general"
+    },
+    {
+      "name": "the-huffington-post",
+      "appearance":"The Huffington Post",
+      "type": "general"
+    },
+    {
+      "name": "the-new-york-times",
+      "appearance":"The New York Times",
+      "type": "general"
+    },
+    {
+      "name": "the-washington-post",
+      "appearance":"The Washington Post",
+      "type": "general"
+    },
+    {
+      "name": "the-wall-street-journal",
+      "appearance":"The Wall Street Journal",
+      "type": "general"
+    },
+    {
+      "name": "usa-today",
+      "appearance":"USA Today",
+      "type": "general"
+    }
+  ]
+}
